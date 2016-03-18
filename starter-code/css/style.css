@@ -1,1 +1,15 @@
 /* file for your css */
+
+.col-sm-3 {
+  background-color: lightgrey;
+  height: 500px;
+  margin-right: 5px;
+}
+
+.well {
+  text-align: center;
+}
+
+.wrong {
+  background: red;
+}
